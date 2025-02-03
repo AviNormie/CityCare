@@ -2,16 +2,6 @@
 
 Citycare is a comprehensive urban management platform designed to help municipalities, community organizers, and citizens streamline city services, report issues, and improve local infrastructure. Whether you’re looking to report a streetlight outage, request a new park bench, or simply stay informed about your city’s projects, Citycare connects you with the resources you need.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **Issue Reporting:** Quickly report issues such as potholes, broken streetlights, or graffiti.
